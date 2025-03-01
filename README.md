@@ -18,6 +18,6 @@ Implementing a hybrid approach using **clustering techniques, LSA, LDA, Knowledg
 ### 🌱 What I’m Currently Learning:
 - **🛠 Cloud Technologies**: AWS Lambda, Redshift, EMR and Serverless Frameworks
 - **📡 Data Engineering**: Apache Spark, data processing and data warehousing using cloud services.
-- **🧠 Deep Learning for NLP**: Transformer models, LLM Integration and fine-tuning. 
+- **🧠 Deep Learning for NLP**: Transformer models, LLM Integration and fine-tuning, recommendation systems. 
 
 ---
