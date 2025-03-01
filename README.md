@@ -5,7 +5,7 @@ I'm **Amal Shifwath Shaik**, pursuing undergraduate in **Computer Science**. I'm
 ### 🚀 About Me
 - 🎓 **B.Sc. in Computer Science** | Arizona State University (GPA: 4.0)
 - 💻 **Data Engineer** at **Knowledge Exchange for Resilience (KER) at ASU** helping build the **Knowledge Alliance Tool**
-- 🔍 Passionate about **building scalable data-driven solutions** and **ML models for real-world impact**.
+- 🔍 Passionate about **Data Science & ML models for real-world impact**, and **building scalable data-driven solutions** .
 
 ---
 
